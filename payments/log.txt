@@ -1,0 +1,202 @@
+Raw IPN Data: Array
+(
+    [merchant] => YOUR_MERCHANT_ID
+    [amount1] => 0.01
+    [amount2] => 0.00045
+    [currency1] => USD
+    [currency2] => BTC
+    [status] => 2
+    [txn_id] => TEST_TXN_ID_12345
+    [custom] => ORDER_3242
+)
+
+Valid IPN Data: Array
+(
+    [Transaction ID] => TEST_TXN_ID_12345
+    [Custom Data] => ORDER_3242
+    [Status] => 2
+    [Amount Received] => 0.01
+    [Currency] => USD
+)
+
+Raw IPN Data: Array
+(
+    [merchant] => YOUR_MERCHANT_ID
+    [amount1] => 0.01
+    [amount2] => 0.00045
+    [currency1] => USD
+    [currency2] => BTC
+    [status] => 2
+    [txn_id] => TEST_TXN_ID_12345
+    [custom] => ORDER_3242
+)
+
+Valid IPN Data: Array
+(
+    [Transaction ID] => TEST_TXN_ID_12345
+    [Custom Data] => ORDER_3242
+    [Status] => 2
+    [Amount Received] => 0.01
+    [Currency] => USD
+)
+
+Raw IPN Data: Array
+(
+    [merchant] => YOUR_MERCHANT_ID
+    [amount1] => 0.01
+    [amount2] => 0.00045
+    [currency1] => USD
+    [currency2] => BTC
+    [status] => 2
+    [txn_id] => TEST_TXN_ID_12345
+    [custom] => ORDER_3242
+)
+
+Valid IPN Data: Array
+(
+    [Transaction ID] => TEST_TXN_ID_12345
+    [Custom Data] => ORDER_3242
+    [Status] => 2
+    [Amount Received] => 0.01
+    [Currency] => USD
+)
+
+Raw IPN Data: Array
+(
+    [merchant] => YOUR_MERCHANT_ID
+    [amount1] => 0.01
+    [amount2] => 0.00045
+    [currency1] => USD
+    [currency2] => BTC
+    [status] => 2
+    [txn_id] => TEST_TXN_ID_12345
+    [custom] => ORDER_3242
+)
+
+Valid IPN Data: Array
+(
+    [Transaction ID] => TEST_TXN_ID_12345
+    [Custom Data] => ORDER_3242
+    [Status] => 2
+    [Amount Received] => 0.01
+    [Currency] => USD
+)
+
+Raw IPN Data: Array
+(
+    [merchant] => YOUR_MERCHANT_ID
+    [amount1] => 0.01
+    [amount2] => 0.00045
+    [currency1] => USD
+    [currency2] => BTC
+    [status] => 2
+    [txn_id] => TEST_TXN_ID_12345
+    [custom] => 22324
+)
+
+Error: Invalid HMAC signature
+Raw IPN Data: Array
+(
+    [merchant] => YOUR_MERCHANT_ID
+    [amount1] => 0.01
+    [amount2] => 0.00045
+    [currency1] => USD
+    [currency2] => BTC
+    [status] => 2
+    [txn_id] => TEST_TXN_ID_12345
+    [custom] => 22324
+)
+
+Valid IPN Data: Array
+(
+    [Transaction ID] => TEST_TXN_ID_12345
+    [Custom Data] => 22324
+    [Status] => 2
+    [Amount Received] => 0.01
+    [Currency] => USD
+)
+
+Raw IPN Data: Array
+(
+    [merchant] => YOUR_MERCHANT_ID
+    [amount1] => 0.01
+    [amount2] => 0.00045
+    [currency1] => USD
+    [currency2] => BTC
+    [status] => 2
+    [txn_id] => TEST_TXN_ID_12345
+    [custom] => 22324
+)
+
+Valid IPN Data: Array
+(
+    [Transaction ID] => TEST_TXN_ID_12345
+    [Custom Data] => 22324
+    [Status] => 2
+    [Amount Received] => 0.01
+    [Currency] => USD
+)
+
+Raw IPN Data: Array
+(
+    [merchant] => YOUR_MERCHANT_ID
+    [amount1] => 0.01
+    [amount2] => 0.00045
+    [currency1] => USD
+    [currency2] => BTC
+    [status] => 2
+    [txn_id] => TEST_TXN_ID_12345
+    [custom] => 22324
+)
+
+Valid IPN Data: Array
+(
+    [Transaction ID] => TEST_TXN_ID_12345
+    [Custom Data] => 22324
+    [Status] => 2
+    [Amount Received] => 0.01
+    [Currency] => USD
+)
+
+Raw IPN Data: Array
+(
+    [merchant] => YOUR_MERCHANT_ID
+    [amount1] => 0.01
+    [amount2] => 0.00045
+    [currency1] => USD
+    [currency2] => BTC
+    [status] => 2
+    [txn_id] => TEST_TXN_ID_12345
+    [custom] => 22324
+)
+
+Valid IPN Data: Array
+(
+    [Transaction ID] => TEST_TXN_ID_12345
+    [Custom Data] => 22324
+    [Status] => 2
+    [Amount Received] => 0.01
+    [Currency] => USD
+)
+
+Raw IPN Data: Array
+(
+    [merchant] => YOUR_MERCHANT_ID
+    [amount1] => 0.01
+    [amount2] => 0.00045
+    [currency1] => USD
+    [currency2] => BTC
+    [status] => 2
+    [txn_id] => TEST_TXN_ID_12345
+    [custom] => 22324
+)
+
+Valid IPN Data: Array
+(
+    [Transaction ID] => TEST_TXN_ID_12345
+    [Custom Data] => 22324
+    [Status] => 2
+    [Amount Received] => 0.01
+    [Currency] => USD
+)
+

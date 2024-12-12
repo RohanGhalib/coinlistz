@@ -1,0 +1,33 @@
+2024-11-30 10:36:07 - Received request: amount1=30&amount2=0.2942&currency1=USDT&currency2=LTCT&custom=104&email=muhammadrohanghalib%40gmail.com&fee=0.00147&first_name=Muhammad+Rohan&ipn_id=66fd0dcc7056bd079eef307f01fd0eb1&ipn_mode=hmac&ipn_type=simple&ipn_version=1.0&item_amount=30&item_name=4&last_name=Ghalib&merchant=ad31228c59f9be785a8693e737a33026&received_amount=0.2942&received_confirms=0&shipping=0&status=1&status_text=Funds+received+and+confirmed%2C+sending+to+you+shortly...&subtotal=30&tax=0&txn_id=CPIK6GEODBQEKE8JUESKOQPBJI
+2024-11-30 10:36:07 - Received request: amount1=30&amount2=0.2942&currency1=USDT&currency2=LTCT&custom=104&email=muhammadrohanghalib%40gmail.com&fee=0.00147&first_name=Muhammad+Rohan&ipn_id=66fd0dcc7056bd079eef307f01fd0eb1&ipn_mode=hmac&ipn_type=simple&ipn_version=1.0&item_amount=30&item_name=4&last_name=Ghalib&merchant=ad31228c59f9be785a8693e737a33026&received_amount=0.2942&received_confirms=0&shipping=0&status=1&status_text=Funds+received+and+confirmed%2C+sending+to+you+shortly...&subtotal=30&tax=0&txn_id=CPIK6GEODBQEKE8JUESKOQPBJI
+2024-11-30 10:36:07 - Error decoding JSON
+
+
+
+
+2024-11-30 10:37:06 - Received request: amount1=30&amount2=0.2942&currency1=USDT&currency2=LTCT&custom=104&email=muhammadrohanghalib%40gmail.com&fee=0.00147&first_name=Muhammad+Rohan&ipn_id=acaa0fdb5347f33a5a3ba9f7072696c7&ipn_mode=hmac&ipn_type=simple&ipn_version=1.0&item_amount=30&item_name=4&last_name=Ghalib&merchant=ad31228c59f9be785a8693e737a33026&net=0.29273&received_amount=0.2942&received_confirms=0&shipping=0&status=100&status_text=Complete&subtotal=30&tax=0&txn_id=CPIK6GEODBQEKE8JUESKOQPBJI
+2024-11-30 10:37:06 - Received request: amount1=30&amount2=0.2942&currency1=USDT&currency2=LTCT&custom=104&email=muhammadrohanghalib%40gmail.com&fee=0.00147&first_name=Muhammad+Rohan&ipn_id=acaa0fdb5347f33a5a3ba9f7072696c7&ipn_mode=hmac&ipn_type=simple&ipn_version=1.0&item_amount=30&item_name=4&last_name=Ghalib&merchant=ad31228c59f9be785a8693e737a33026&net=0.29273&received_amount=0.2942&received_confirms=0&shipping=0&status=100&status_text=Complete&subtotal=30&tax=0&txn_id=CPIK6GEODBQEKE8JUESKOQPBJI
+2024-11-30 10:37:06 - Error decoding JSON
+
+
+
+2024-11-30 10:42:48 - Received request: amount1=300&amount2=2.95096&currency1=USDT&currency2=LTCT&custom=104&email=muhammadrohanghalib%40gmail.com&fee=0.01475&first_name=Muhammad+Rohan&ipn_id=8a21b613c4d0d9edb8e4602cb7bbc6d3&ipn_mode=hmac&ipn_type=simple&ipn_version=1.0&item_amount=300&item_name=2&last_name=Ghalib&merchant=ad31228c59f9be785a8693e737a33026&net=2.93621&received_amount=2.95096&received_confirms=0&shipping=0&status=100&status_text=Complete&subtotal=300&tax=0&txn_id=CPIK0OTOZMH1XBDJJRVQUW86UW
+2024-11-30 10:42:48 - Payment complete: Transaction ID 104 updated to success
+
+
+2024-11-30 10:46:06 - Received request: amount1=30&amount2=0.29293&currency1=USDT&currency2=LTCT&custom=105&email=support%40tezistantech.ga&fee=0.00146&first_name=Muhammad+Rohan&ipn_id=12c8e3b56781e282310197501d92b35d&ipn_mode=hmac&ipn_type=simple&ipn_version=1.0&item_amount=30&item_name=4&last_name=Ghalib&merchant=ad31228c59f9be785a8693e737a33026&received_amount=0&received_confirms=0&shipping=0&status=0&status_text=Waiting+for+buyer+funds...&subtotal=30&tax=0&txn_id=CPIK1XQUSSJTPQXQJM4JJ5CFLI
+2024-11-30 10:46:06 - Payment pending: Status 0
+
+
+2024-11-30 10:50:06 - Received request: amount1=30&amount2=0.29293&currency1=USDT&currency2=LTCT&custom=105&email=support%40tezistantech.ga&fee=0.00146&first_name=Muhammad+Rohan&ipn_id=a8684b86ddd8a4efd8461292baa1c929&ipn_mode=hmac&ipn_type=simple&ipn_version=1.0&item_amount=30&item_name=4&last_name=Ghalib&merchant=ad31228c59f9be785a8693e737a33026&received_amount=0.29293&received_confirms=0&shipping=0&status=1&status_text=Funds+received+and+confirmed%2C+sending+to+you+shortly...&subtotal=30&tax=0&txn_id=CPIK1XQUSSJTPQXQJM4JJ5CFLI
+2024-11-30 10:50:06 - Payment pending: Status 1
+
+
+2024-11-30 10:51:07 - Received request: amount1=30&amount2=0.29293&currency1=USDT&currency2=LTCT&custom=105&email=support%40tezistantech.ga&fee=0.00146&first_name=Muhammad+Rohan&ipn_id=f5f540e39a330accffa913f9c617503d&ipn_mode=hmac&ipn_type=simple&ipn_version=1.0&item_amount=30&item_name=4&last_name=Ghalib&merchant=ad31228c59f9be785a8693e737a33026&net=0.29147&received_amount=0.29293&received_confirms=0&shipping=0&status=100&status_text=Complete&subtotal=30&tax=0&txn_id=CPIK1XQUSSJTPQXQJM4JJ5CFLI
+2024-11-30 10:51:07 - Payment complete: Transaction ID 105 updated to success
+2024-11-30 11:00:08 - Received request: amount1=150&amount2=1.46116&currency1=USDT&currency2=LTCT&custom=106&email=muhammadrohanghalib%40gmail.com&fee=0.00731&first_name=Muhammad+Rohan&ipn_id=5e367b2e4fcf3fc3b130eb879cdd1699&ipn_mode=hmac&ipn_type=simple&ipn_version=1.0&item_amount=150&item_name=1&last_name=Ghalib&merchant=ad31228c59f9be785a8693e737a33026&received_amount=0&received_confirms=0&shipping=0&status=0&status_text=Waiting+for+buyer+funds...&subtotal=150&tax=0&txn_id=CPIK5S800WFMRQZSI0CPB9SQ7R
+2024-11-30 11:00:08 - Payment pending: Status 0
+2024-11-30 11:05:06 - Received request: amount1=150&amount2=1.46116&currency1=USDT&currency2=LTCT&custom=106&email=muhammadrohanghalib%40gmail.com&fee=0.00731&first_name=Muhammad+Rohan&ipn_id=c735a8cc0eb051d7dedc69a7c597d626&ipn_mode=hmac&ipn_type=simple&ipn_version=1.0&item_amount=150&item_name=1&last_name=Ghalib&merchant=ad31228c59f9be785a8693e737a33026&received_amount=1.46116&received_confirms=0&shipping=0&status=1&status_text=Funds+received+and+confirmed%2C+sending+to+you+shortly...&subtotal=150&tax=0&txn_id=CPIK5S800WFMRQZSI0CPB9SQ7R
+2024-11-30 11:05:06 - Payment pending: Status 1
+2024-11-30 11:06:07 - Received request: amount1=150&amount2=1.46116&currency1=USDT&currency2=LTCT&custom=106&email=muhammadrohanghalib%40gmail.com&fee=0.00731&first_name=Muhammad+Rohan&ipn_id=ad9817ef3931c00569244ed55cdb7ed8&ipn_mode=hmac&ipn_type=simple&ipn_version=1.0&item_amount=150&item_name=1&last_name=Ghalib&merchant=ad31228c59f9be785a8693e737a33026&net=1.45385&received_amount=1.46116&received_confirms=0&shipping=0&status=100&status_text=Complete&subtotal=150&tax=0&txn_id=CPIK5S800WFMRQZSI0CPB9SQ7R
+2024-11-30 11:06:07 - Payment complete: Transaction ID 106 updated to success
